@@ -9,12 +9,6 @@ Skrip Downloader Facebook dengan program python
 
 $ pkg update && pkg upgrade
 
-$ pkg install git python -y
-
-$ python3 -m pip install requests
-
-$ python3 -m pip install bs4
-
 $ git clone https://github.com/hekelpro/igdl
 
 $ cd igdl
