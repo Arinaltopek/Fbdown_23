@@ -1,11 +1,9 @@
-# Fbdown_23
+# Fbdown
 Skrip Downloader Facebook dengan program python
-kami
-# IGDL (Instagram Downloader)
 
 ![ss](https://github.com/hekelpro/igdl/blob/main/screen.jpg)
 
-# only with termux
+# Install
 
 ```php
 
@@ -25,6 +23,12 @@ $ python down.py
 
 ```
 
-# thanks to
+# Terimakasih Kepada
 
-```All member XiuzCode```
+```Ayah ```
+
+```Ibu```
+
+```Adik```
+
+```Teman-teman```
